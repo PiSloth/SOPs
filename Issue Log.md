@@ -76,15 +76,4 @@
 | 👥 **Collaborative Agreement** | Target Resolution Date ကို **Owner + PM** နှစ်ဦး ညှိနှိုင်းပြီးမှ သတ်မှတ်ရမည် |
 | 📊 **Weekly Visibility** | Log သည် **Weekly Progress Report** ၏ အစိတ်အပိုင်းဖြစ်ရမည် |
 
----
 
-> ✨ **Pro Tip**:  
-> ဤ Procedure ကို **Onboarding Document** တစ်ခုအဖြစ် အသစ်ဝင်လာသော အဖွဲ့ဝင်များအား မိတ်ဆက်ပေးပါ။  
-> ထိုသို့ပြုလုပ်ခြင်းဖြင့် **Proactive Culture** ကို တည်ဆောက်နိုင်ပါလိမ့်မည်။
-
----
-
-လိုအပ်ပါက ဤ Procedure ကို **PDF**, **Word**, သို့မဟုတ် **Team Wiki** အတွက် Markdown format အဖြစ်လည်း ပြင်ဆင်ပေးနိုင်ပါသည်။  
-(သို့) **Google Sheets/Excel Template** နှင့် တွဲဖက်အသုံးပြုနိုင်အောင်လည်း ပြင်ပေးပါမယ်။
-
-လိုချင်တာရှိရင် ပြောပါနော်! 😊
