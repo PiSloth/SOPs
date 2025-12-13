@@ -1,8 +1,7 @@
----
 
 ## 📄 **Weekly Odoo Progress Summary – Template (တစ်စာမျက်နှာ)**
 
-**To**: General Manager  
+**To**: Department Head | Cc. it@shwetatar.org, paingoaksoe@shwetatar.org
 **From**: [သင့်နာမည်] – Odoo Project Owner  
 **Date**: Friday, April 12, 2025  
 **Subject**: Weekly Odoo Progress Summary – Week 15 (Apr 7–11, 2025)
@@ -22,7 +21,6 @@
 ### 🏆 **2. Key Achievements (Business Impact)**
 - **Opening Stock** အတည်ပြုပြီး – **Go-Live အတွက် ဒေတာအခြေခံ ပြည့်စုံ**  
 - **Sales Team** မှ UAT စမ်းသပ်မှု **95% ပြီးမြောက်** – **User Confidence မြင့်မား**  
-- **Critical Systems (CCTV/Network)** – **98.9% Uptime** ထိန်းသိမ်းနိုင်
 
 ---
 
