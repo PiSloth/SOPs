@@ -1,5 +1,3 @@
----
-
 ## 📊 **Weekly Progress Report – Issue & Risk Log Section**  
 *(Part of Full Weekly Report)*
 
